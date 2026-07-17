@@ -2,12 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0077B5&height=200&section=header&text=Harsh%20Vardhan%20Gupta&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20in%20the%20making&descAlignY=55&descSize=18"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=MCA+Student+%40+VIT;Python+%7C+FastAPI+%7C+Real-Time+Systems;150%2B+DSA+Problems+Solved;Building+Toward+a+Backend+Role+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=MCA+Student+%40+VIT;Python+%7C+FastAPI+%7C+Real-Time+Systems;150%2B+DSA+Problems+Solved;Backend+%7C+Data+Engineering+%7C+Data+Science)](https://git.io/typing-svg)
 
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=HARSHA-GIT1&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/www.linkedin.com/in/harsh-vardhan-gupta-04a946327)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harsh-vardhan-gupta-04a946327)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gharshvardhan73@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-150%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Sukuna9)
 
@@ -25,7 +25,7 @@ location : Meerut, UP, India 🇮🇳
 focus    : Python backend · REST APIs · Real-time & async systems
 building : Daily DSA grind (NeetCode patterns) + FastAPI backend skills
 learning : FastAPI · SQL · System Design · LLM APIs
-target   : Product-Based Backend Developer Aspirant | Data Engineer Aspirant
+target   : Backend Developer / Data Engineer / Data Science Aspirant
 ```
 
 ---
@@ -43,24 +43,18 @@ target   : Product-Based Backend Developer Aspirant | Data Engineer Aspirant
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/HARSHA-GIT1/Bid-Rush">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HARSHA-GIT1&repo=Bid-Rush&theme=tokyonight&show_owner=true"/>
-      </a>
-      <br/><sub>⚡ Real-time auction platform · BullMQ · Socket.io · Redis · MongoDB (team of 5)</sub>
+      ⚡ <b>Real-Time Auction Platform</b><br/>
+      <sub>BullMQ · Socket.io · Redis · MongoDB (team of 5)</sub>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/HARSHA-GIT1/ETL-Sales-Analytics">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HARSHA-GIT1&repo=ETL-Sales-Analytics&theme=tokyonight&show_owner=true"/>
-      </a>
-      <br/><sub>📊 ETL pipeline & sales dashboard · Pandas · SQLite · Power BI</sub>
+      📊 <b>ETL Pipeline & Sales Analytics</b><br/>
+      <sub>Pandas · SQLite · Power BI</sub>
     </td>
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <a href="https://github.com/HARSHA-GIT1/Plant-Leaf-Disease-Preprocessing">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HARSHA-GIT1&repo=Plant-Leaf-Disease-Preprocessing&theme=tokyonight&show_owner=true"/>
-      </a>
-      <br/><sub>🌿 Distortion-adaptive preprocessing for leaf disease classification · OpenCV · ResNet · VGG16</sub>
+      🌿 <b>Distortion-Adaptive Preprocessing for Leaf Disease Classification</b><br/>
+      <sub>OpenCV · ResNet · VGG16</sub>
     </td>
   </tr>
 </table>
