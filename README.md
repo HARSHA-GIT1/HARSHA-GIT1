@@ -7,7 +7,7 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=HARSHA-GIT1&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harsh-vardhan-gupta-04a946327)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/whyyharsha)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gharshvardhan73@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-150%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Sukuna9)
 
@@ -44,7 +44,7 @@ target   : Backend Developer / Data Engineer / Data Science Aspirant
   <tr>
     <td align="center" width="50%">
       ⚡ <b>Real-Time Auction Platform</b><br/>
-      <sub>BullMQ · Socket.io · Redis · MongoDB (team of 5)</sub>
+      <sub>BullMQ · Socket.io · Redis · MongoDB (Team of 5)</sub>
     </td>
     <td align="center" width="50%">
       📊 <b>ETL Pipeline & Sales Analytics</b><br/>
@@ -54,27 +54,63 @@ target   : Backend Developer / Data Engineer / Data Science Aspirant
   <tr>
     <td align="center" colspan="2">
       🌿 <b>Distortion-Adaptive Preprocessing for Leaf Disease Classification</b><br/>
-      <sub>OpenCV · ResNet · VGG16</sub>
+      <sub>OpenCV · ResNet50 · VGG16</sub>
     </td>
   </tr>
 </table>
 
 ---
 
-### 📈 Activity Graph
+### 📈 GitHub Activity Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HARSHA-GIT1&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HARSHA-GIT1&theme=tokyo-night&hide_border=true"/>
 </div>
+
+---
 
 ### 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/HARSHA-GIT1/HARSHA-GIT1/output/github-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/HARSHA-GIT1/HARSHA-GIT1/output/github-snake-dark.svg"/>
+</div>
+
+---
+
+### 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=HARSHA-GIT1&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARSHA-GIT1&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+### 🔥 GitHub Streak
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=HARSHA-GIT1&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00D9FF&height=100&section=footer"/>
+
+### 🤝 Let's Connect
+
+[![Instagram](https://img.shields.io/badge/Instagram-@whyyharsha-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/whyyharsha)
+[![Gmail](https://img.shields.io/badge/Gmail-gharshvardhan73%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gharshvardhan73@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Sukuna9-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Sukuna9)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00D9FF&height=120&section=footer"/>
+
 </div>
