@@ -77,7 +77,7 @@ target   : Backend Developer / Data Engineer / Data Science Aspirant
 
 ---
 
-### 📊 GitHub Statistics
+/*### 📊 GitHub Statistics
 
 <div align="center">
 
@@ -97,13 +97,15 @@ target   : Backend Developer / Data Engineer / Data Science Aspirant
 
 ---
 
-<div align="center">
+<div align="center">*/
 
 ### 🤝 Let's Connect
 
-[![Instagram](https://img.shields.io/badge/Instagram-@whyyharsha-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/whyyharsha)
-[![Gmail](https://img.shields.io/badge/Gmail-gharshvardhan73%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gharshvardhan73@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Sukuna9-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Sukuna9)
+![Profile Views](https://komarev.com/ghpvc/?username=HARSHA-GIT1&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-vardhan-gupta-04a946327)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/whyyharsha)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gharshvardhan73@gmail.com)
+
 
 </div>
 
