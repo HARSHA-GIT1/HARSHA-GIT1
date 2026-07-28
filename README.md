@@ -77,28 +77,6 @@ target   : Backend Developer / Data Engineer / Data Science Aspirant
 
 ---
 
-/*### 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=HARSHA-GIT1&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARSHA-GIT1&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-### 🔥 GitHub Streak
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=HARSHA-GIT1&theme=tokyonight&hide_border=true"/>
-</div>
-
----
-
-<div align="center">*/
-
 ### 🤝 Let's Connect
 
 ![Profile Views](https://komarev.com/ghpvc/?username=HARSHA-GIT1&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
