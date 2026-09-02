@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0077B5&height=200&section=header&text=Harsh%20Vardhan%20Gupta&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Engineer%20%7C%20Backend%20Engineer%20in%20the%20making&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0077B5&height=200&section=header&text=Harsh%20Vardhan%20Gupta&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20in%20the%20making&descAlignY=55&descSize=18"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=MCA+Student+%40+VIT;Python+%7C+SQL+%7C+ETL+Pipelines;150%2B+DSA+Problems+Solved;Data+Engineering+%7C+Backend+%7C+Cloud)](https://git.io/typing-svg)
 
@@ -7,7 +7,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=HARSHA-GIT1&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-vardhan-gupta-04a946327)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/whyyharsha)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gharshvardhan73@gmail.com)
 
 </div>
@@ -25,7 +24,7 @@ focus    : Python · SQL · ETL Pipelines · Data Warehousing · REST APIs
 building : ETL pipelines, automated data workflows & cloud-based data solutions
 grinding : 150+ DSA Problems Solved (NeetCode patterns)
 learning : Apache Airflow · Cloud Data Engineering (AWS/Azure/GCP) · System Design
-target   : Data Engineer / Backend Developer / Data Science Aspirant
+target   : Data Engineer / Backend Developer
 ```
 
 ---
@@ -69,6 +68,14 @@ target   : Data Engineer / Backend Developer / Data Science Aspirant
 
 ---
 
+### 📜 Certifications
+
+- Python Programming — HackerRank
+- Google Analytics — Google
+- Version Control (Git & GitHub) — Meta
+
+---
+
 ### 📈 GitHub Activity Graph
 
 <div align="center">
@@ -89,7 +96,6 @@ target   : Data Engineer / Backend Developer / Data Science Aspirant
 
 ![Profile Views](https://komarev.com/ghpvc/?username=HARSHA-GIT1&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-vardhan-gupta-04a946327)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/whyyharsha)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gharshvardhan73@gmail.com)
 
 </div>
