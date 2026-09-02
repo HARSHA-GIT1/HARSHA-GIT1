@@ -1,8 +1,7 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0077B5&height=200&section=header&text=Harsh%20Vardhan%20Gupta&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Engineer%20%7C%20Backend%20Engineer%20in%20the%20making&descAlignY=55&descSize=18"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0077B5&height=200&section=header&text=Harsh%20Vardhan%20Gupta&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20in%20the%20making&descAlignY=55&descSize=18"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=MCA+Student+%40+VIT;Python+%7C+FastAPI+%7C+Real-Time+Systems;150%2B+DSA+Problems+Solved;Backend+%7C+Data+Engineering+%7C+Data+Science)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=MCA+Student+%40+VIT;Python+%7C+SQL+%7C+ETL+Pipelines;150%2B+DSA+Problems+Solved;Data+Engineering+%7C+Backend+%7C+Cloud)](https://git.io/typing-svg)
 
 <br/>
 
@@ -19,13 +18,14 @@
 
 ```yaml
 name     : Harsh Vardhan Gupta
-role     : MCA Student · Backend Engineer (in progress)
-education: VIT — MCA (2025–2027) · CCS University — BCA (CGPA 8.0)
+role     : MCA Student · Data Engineer (in progress) · Backend Engineer (in progress)
+education: VIT — MCA, CGPA 8.15/10 (2025–2027) · CCS University, Meerut — BCA, CGPA 8.0/10 (2022–2025)
 location : Meerut, UP, India 🇮🇳
-focus    : Python backend · REST APIs · Real-time & async systems
-building : Daily DSA grind (NeetCode patterns) + FastAPI backend skills
-learning : FastAPI · SQL · System Design · LLM APIs
-target   : Backend Developer / Data Engineer / Data Science Aspirant
+focus    : Python · SQL · ETL Pipelines · Data Warehousing · REST APIs
+building : ETL pipelines, automated data workflows & cloud-based data solutions
+grinding : 150+ DSA Problems Solved (NeetCode patterns)
+learning : Apache Airflow · Cloud Data Engineering (AWS/Azure/GCP) · System Design
+target   : Data Engineer / Backend Developer / Data Science Aspirant
 ```
 
 ---
@@ -33,8 +33,16 @@ target   : Backend Developer / Data Engineer / Data Science Aspirant
 ### ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,nodejs,express,fastapi,mysql,postgres,mongodb,sqlite,redis,git,postman,vscode,linux&perline=8"/>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,mysql,postgres,mongodb,sqlite,aws,azure,gcp,git,postman,vscode,linux&perline=8"/>
 </p>
+
+**Languages:** Python · Java · SQL · C · C++
+**Data Engineering & ETL:** Pandas · NumPy · PySpark · Apache Airflow · APScheduler · REST API Integration
+**Databases:** MySQL · PostgreSQL · MongoDB · SQLite
+**Data Modeling:** Normalization · Dimensional Modeling · Star Schema · Fact & Dimension Tables
+**Cloud & Big Data:** AWS (S3, EC2, Lambda) · Azure Data Factory · GCP BigQuery · Databricks
+**BI & Reporting:** Power BI · Advanced Excel (Pivot Tables, OpenPyXL)
+**Tools:** Git · GitHub · Postman · VS Code · Jupyter Notebook
 
 ---
 
@@ -84,13 +92,10 @@ target   : Backend Developer / Data Engineer / Data Science Aspirant
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/whyyharsha)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gharshvardhan73@gmail.com)
 
-
 </div>
 
 ---
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00D9FF&height=120&section=footer"/>
-
 </div>
