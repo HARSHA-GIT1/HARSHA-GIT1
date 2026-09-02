@@ -79,7 +79,7 @@ target   : Data Engineer / Backend Developer
 ### 📈 GitHub Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HARSHA-GIT1&theme=tokyo-night&hide_border=true"/>
+  <img src="./profile/activity-graph.svg"/>
 </div>
 
 ---
