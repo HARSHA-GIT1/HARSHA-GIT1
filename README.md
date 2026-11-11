@@ -17,14 +17,14 @@
 
 ```yaml
 name     : Harsh Vardhan Gupta
-role     : MCA Student · Data Engineer (in progress) · Backend Engineer (in progress)
+role     : MCA Student · Backend Developer (in progress)
 education: VIT — MCA, CGPA 8.15/10 (2025–2027) · CCS University, Meerut — BCA, CGPA 8.0/10 (2022–2025)
 location : Meerut, UP, India 🇮🇳
-focus    : Python · SQL · ETL Pipelines · Data Warehousing · REST APIs
-building : ETL pipelines, automated data workflows & cloud-based data solutions
+focus    : Python · JavaScript · FastAPI · Node.js · Microservices · Real-Time Systems
+building : Backend systems with real-time features, NLP/ML projects, and apps that use LLM APIs
 grinding : 150+ DSA Problems Solved (NeetCode patterns)
-learning : Apache Airflow · Cloud Data Engineering (AWS/Azure/GCP) · System Design
-target   : Data Engineer / Backend Developer
+learning : AI Agents · Prompt Engineering · Agentic Development · System Design
+target   : Backend Developer / Software Engineer
 ```
 
 ---
@@ -32,16 +32,16 @@ target   : Data Engineer / Backend Developer
 ### ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,mysql,postgres,mongodb,sqlite,aws,azure,gcp,git,postman,vscode,linux&perline=8"/>
+  <img src="https://skillicons.dev/icons?i=python,js,nodejs,fastapi,react,mysql,mongodb,redis,pytorch,opencv,pandas,numpy,git,github,postman,vscode&perline=8"/>
 </p>
 
-**Languages:** Python · Java · SQL · C · C++
-**Data Engineering & ETL:** Pandas · NumPy · PySpark · Apache Airflow · APScheduler · REST API Integration
-**Databases:** MySQL · PostgreSQL · MongoDB · SQLite
-**Data Modeling:** Normalization · Dimensional Modeling · Star Schema · Fact & Dimension Tables
-**Cloud & Big Data:** AWS (S3, EC2, Lambda) · Azure Data Factory · GCP BigQuery · Databricks
-**BI & Reporting:** Power BI · Advanced Excel (Pivot Tables, OpenPyXL)
-**Tools:** Git · GitHub · Postman · VS Code · Jupyter Notebook
+**Languages:** Python · JavaScript · SQL
+**Backend & APIs:** FastAPI · Node.js · Socket.io · BullMQ · Microservices
+**Frontend:** React
+**Databases:** MySQL · MongoDB · Redis
+**AI/ML:** PyTorch · OpenCV · Pandas · NumPy · OCR · NLP · LLM API (Groq)
+**Core CS:** Data Structures & Algorithms · OOP · DBMS · Operating Systems · Computer Networks
+**Tools:** Git · GitHub · Postman · VS Code
 
 ---
 
